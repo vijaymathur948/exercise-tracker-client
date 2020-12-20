@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/exercise-tracker-client/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/exercise-tracker-client/static/js/main.c3b043d5.chunk.js",
+    "main.js.map": "/exercise-tracker-client/static/js/main.c3b043d5.chunk.js.map",
+    "runtime-main.js": "/exercise-tracker-client/static/js/runtime-main.e18d62bd.js",
+    "runtime-main.js.map": "/exercise-tracker-client/static/js/runtime-main.e18d62bd.js.map",
+    "static/css/2.5ea8d6f0.chunk.css": "/exercise-tracker-client/static/css/2.5ea8d6f0.chunk.css",
+    "static/js/2.b7315045.chunk.js": "/exercise-tracker-client/static/js/2.b7315045.chunk.js",
+    "static/js/2.b7315045.chunk.js.map": "/exercise-tracker-client/static/js/2.b7315045.chunk.js.map",
+    "static/js/3.4674f97a.chunk.js": "/exercise-tracker-client/static/js/3.4674f97a.chunk.js",
+    "static/js/3.4674f97a.chunk.js.map": "/exercise-tracker-client/static/js/3.4674f97a.chunk.js.map",
+    "index.html": "/exercise-tracker-client/index.html",
+    "static/css/2.5ea8d6f0.chunk.css.map": "/exercise-tracker-client/static/css/2.5ea8d6f0.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/exercise-tracker-client/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b7315045.chunk.js.LICENSE.txt": "/exercise-tracker-client/static/js/2.b7315045.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e18d62bd.js",
+    "static/css/2.5ea8d6f0.chunk.css",
+    "static/js/2.b7315045.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.c3b043d5.chunk.js"
+  ]
+}
