@@ -11,6 +11,9 @@
 # production
 /build
 
+# stop backend directory
+/backend
+
 # misc
 .DS_Store
 .env.local
